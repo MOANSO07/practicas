@@ -1,0 +1,10 @@
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\bin\Debug\Formulario.exe
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.exe
+C:\Users\Tisnado\source\repos\practicas\Solution1\Formulario\obj\Debug\Formulario.pdb
